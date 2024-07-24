@@ -1,2 +1,5 @@
 ---
 # tasks file for common
+- name: set timezone to Asia/Yeakterinburg
+  timezone:
+    name: Asia/Yekaterinburg
