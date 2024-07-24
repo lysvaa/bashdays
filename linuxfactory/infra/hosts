@@ -1,0 +1,4 @@
+[main]
+
+tsl-prod ansible_host=192.168.66.35 ansible_user=root
+tsl-stage ansible_host=192.168.66.36 ansible_user=root
